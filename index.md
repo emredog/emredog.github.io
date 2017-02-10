@@ -1,12 +1,11 @@
-# Project Title
+Research Assistant at [Galatasaray University](https://www.gsu.edu.tr).
+PhD student at [INSA Lyon](https://www.insa-lyon.fr), [LIRIS](http://liris.cnrs.fr) laboratories (team [IMAGINE](https://liris.cnrs.fr/imagine/)). 
+Advisors:
+..* Christian WOLF
+..* Atilla BASKURT
+..* Gonen EREN
 
-One Paragraph of project description goes here
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
+## Prerequisites
 
 What things you need to install the software and how to install them
 
@@ -14,7 +13,14 @@ What things you need to install the software and how to install them
 Give examples
 ```
 
-### Installing
+
+
+## Contact
+edogan (at) gsu.edu.tr
+emre.dogan (at) liris.cnrs.fr
+
+
+<!-- ## Installing
 
 A step by step series of examples that tell you have to get a development env running
 
@@ -49,10 +55,10 @@ Give an example
 Explain what these tests test and why
 
 ```
-Give an example
-```
+Give an example -->
+<!-- ``` -->
 
-## Deployment
+<!-- ## Deployment
 
 Add additional notes about how to deploy this on a live system
 
@@ -84,4 +90,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * Hat tip to anyone who's code was used
 * Inspiration
-* etc
+* etc -->
