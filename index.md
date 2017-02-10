@@ -29,12 +29,12 @@ Publications
 
 Professional Experience
 ------
-* *2013–* Research Assistant, Computer Engineering Dept. Galatasaray University, Istanbul 
-* *2013* Guest Lecturer on Digital Game Design, Galatasaray University, Istanbul
-* *2012* Software Specialist, MAP Electronic Commerce Services, Istanbul
-* *2010–12* R&D Engineer, Vistek ISRA Vision, Istanbul/Herten (Germany)
-* *2007–10* Software Engineer, Vistek Machine Vision and Automation, Istanbul 
-* *2007* Intern, Vistek Machine Vision and Automation, Istanbul
+* *2013 – Present* **Research Assistant**, Computer Engineering Dept. Galatasaray University, Istanbul 
+* *2013* **Guest Lecturer** on Digital Game Design, Galatasaray University, Istanbul
+* *2012* **Software Specialist**, MAP Electronic Commerce Services, Istanbul
+* *2010–12* **R&D Engineer**, Vistek ISRA Vision, Istanbul/Herten (Germany)
+* *2007–10* **Software Engineer**, Vistek Machine Vision and Automation, Istanbul 
+* *2007* **Intern**, Vistek Machine Vision and Automation, Istanbul
 
 Education
 ------
