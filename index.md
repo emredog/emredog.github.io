@@ -4,9 +4,7 @@ Basic info
 *emre.dogan (at) liris.cnrs.fr*
 
 * Research Assistant at [Galatasaray University](https://www.gsu.edu.tr).
-
 * PhD student at [INSA Lyon](https://www.insa-lyon.fr), [LIRIS](http://liris.cnrs.fr) laboratories (team [IMAGINE](https://liris.cnrs.fr/imagine/)). 
-
 * Advisors:
 	* [Christian WOLF](http://liris.cnrs.fr/christian.wolf/)
 	* [Atilla BASKURT](http://liris.cnrs.fr/atilla.baskurt/wiki/doku.php)
@@ -38,11 +36,28 @@ Professional Experience
 
 Education
 ------
-* *2012* MSc in Software Engineering, BOGAZICI UNIVERSITY
-* *2009* BSc in Computer Engineering, GALATASARAY UNIVERSITY
-* *2003* Saint-Joseph Private French High School
+* *2012* MSc in Software Engineering, Bogazici University, Istanbul
+* *2009* BSc in Computer Engineering, Galatasaray University, Istanbul
+* *2003* Saint-Joseph Private French High School, Istanbul
 
+Test Scores
+------
+* IELTS *(Feb 2017)*
+	* Listening - 9.0
+	* Reading - 9.0
+	* Writing - 7.5
+	* Speaking - 7.0
+* ~~TOEFL *(Apr 2012)*, 98~~
 
+Links
+------
+* [LinkedIn](https://tr.linkedin.com/in/emredog)
+* [Google Scholar](https://scholar.google.com/citations?user=oKbdmJsAAAAJ)
+* [ResearchGate](https://www.researchgate.net/profile/Emre_Dogan)
+* [Twitter](https://twitter.com/emredawg)
+* [Tumblr blog](http://ayilarlagoriller.com)
+
+	
 
 
 
