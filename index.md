@@ -1,7 +1,7 @@
 Basic info
 ------
-edogan (at) gsu.edu.tr
-emre.dogan (at) liris.cnrs.fr
+*edogan (at) gsu.edu.tr*       
+*emre.dogan (at) liris.cnrs.fr*
 
 * Research Assistant at [Galatasaray University](https://www.gsu.edu.tr).
 
