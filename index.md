@@ -1,28 +1,42 @@
-Info
+Basic info
 ------
-
-Research Assistant at [Galatasaray University](https://www.gsu.edu.tr).
-
-PhD student at [INSA Lyon](https://www.insa-lyon.fr), [LIRIS](http://liris.cnrs.fr) laboratories (team [IMAGINE](https://liris.cnrs.fr/imagine/)). 
-
-Advisors:
-	* Christian WOLF
-	* Atilla BASKURT
-	* Gonen EREN
-
-## Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-
-
-## Contact
 edogan (at) gsu.edu.tr
 emre.dogan (at) liris.cnrs.fr
+
+* Research Assistant at [Galatasaray University](https://www.gsu.edu.tr).
+
+* PhD student at [INSA Lyon](https://www.insa-lyon.fr), [LIRIS](http://liris.cnrs.fr) laboratories (team [IMAGINE](https://liris.cnrs.fr/imagine/)). 
+
+* Advisors:
+	* [Christian WOLF](http://liris.cnrs.fr/christian.wolf/)
+	* [Atilla BASKURT](http://liris.cnrs.fr/atilla.baskurt/wiki/doku.php)
+	* [Gonen EREN](http://www.goneneren.com/)
+
+Research Interests
+------
+Articulated pose estimation, action recognition, multi-view settings, mixture models, deep learning 
+
+Programming Skills
+------
+C++ , Matlab, OpenCV, Python, Keras/Tensorflow
+
+Professional Experience
+------
+* *2013–* Research Assistant, Computer Engineering Dept. Galatasaray University, Istanbul 
+* *2013* Guest Lecturer on Digital Game Design, Galatasaray University, Istanbul
+* *2012* Software Specialist, MAP Electronic Commerce Services, Istanbul
+* *2010–12* R&D Engineer, Vistek ISRA Vision, Istanbul/Herten (Germany)
+* *2007–10* Software Engineer, Vistek Machine Vision and Automation, Istanbul 
+* *2007* Intern, Vistek Machine Vision and Automation, Istanbul
+
+Education
+------
+* *2012* MSc in Software Engineering, BOGAZICI UNIVERSITY
+* *2009* BSc in Computer Engineering, GALATASARAY UNIVERSITY
+* *2003* Saint-Joseph Private French High School
+
+
+
 
 
 <!-- ## Installing
