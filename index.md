@@ -1,5 +1,7 @@
 Research Assistant at [Galatasaray University](https://www.gsu.edu.tr).
+
 PhD student at [INSA Lyon](https://www.insa-lyon.fr), [LIRIS](http://liris.cnrs.fr) laboratories (team [IMAGINE](https://liris.cnrs.fr/imagine/)). 
+
 Advisors:
 ..* Christian WOLF
 ..* Atilla BASKURT
