@@ -37,6 +37,7 @@ Professional Experience
 
 Education
 ------
+* *2017* PhD in Computer Vision, INSA Lyon, France
 * *2012* MSc in Software Engineering, Bogazici University, Istanbul
 * *2009* BSc in Computer Engineering, Galatasaray University, Istanbul
 * *2003* Saint-Joseph Private French High School, Istanbul
