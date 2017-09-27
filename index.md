@@ -20,7 +20,7 @@ C++ , Matlab, OpenCV, Python, Keras/Tensorflow
 
 Publications
 ------
-* E. Dogan, G. Eren, C. Wolf, E. Lombardi, A. Baskurt, *"Multi-view pose estimation with mixtures-of-parts and adaptive viewpoint selection"*, 2017 *(Accepted to IET-CV, with minor revisions)*
+* E. Dogan, G. Eren, C. Wolf, E. Lombardi, A. Baskurt, *"Multi-view pose estimation with mixtures-of-parts and adaptive viewpoint selection"*, 2017 *(Accepted to IET-CV, with minor revisions)* [[arXiv]](http://arxiv.org/abs/1709.08527)
 * E. Dogan, G. Eren, C. Wolf, E. Lombardi, A. Baskurt, *"Multi-view Pose Estimation with Flexible Mixtures-of-Parts"*, 2017 *(Accepted to ACIVS 2017)*
 * E. Dogan, G. Eren, C. Wolf, A. Baskurt, *“Activity Recognition with Volume Motion Templates and Histograms of 3D Gradients”*, Image Processing (ICIP), 2015 IEEE International Conference on, Quebec City, QC, 2015, pp. 4421-4425.
 * C. Wolf, E. Lombardi, J. Mille, O. Celiktutan, M. Jiu, E. Dogan, G. Eren, M. Baccouche, E. Dellandrea, C. Bichot, C. Garcia, B. Sankur, *“Evaluation of video activity localizations integrating quality and quantity measurements: application to the ICPR 2012 HARL competition”*, Computer Vision and Image Understanding 127, 2014, pp. 14-30
