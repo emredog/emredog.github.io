@@ -3,14 +3,6 @@ Basic info
 *edogan (at) gsu.edu.tr*       
 *emre.dogan (at) liris.cnrs.fr*
 
-* Research Assistant at [Galatasaray University](https://www.gsu.edu.tr).
-* PhD, [INSA Lyon](https://www.insa-lyon.fr), [LIRIS](http://liris.cnrs.fr) laboratories (team [IMAGINE](https://liris.cnrs.fr/imagine/)). 
-	* Thesis: *Human Pose Estimation and Action Recognition by Multi-robot Systems* [[pdf]](https://drive.google.com/file/d/0B_ZIKglaIIgFVFo4RlJoWVBRaVE/view?usp=sharing) [[defense]](https://drive.google.com/open?id=0B_ZIKglaIIgFUlc2b0RrMDZITE0)
-	* Advisors:
-		* [Christian WOLF](http://liris.cnrs.fr/christian.wolf/)
-		* [Atilla BASKURT](http://liris.cnrs.fr/atilla.baskurt/wiki/doku.php)
-		* [Gonen EREN](http://www.goneneren.com/)
-
 Research Interests
 ------
 Articulated pose estimation, action recognition, multi-view settings, mixture models, deep learning 
@@ -38,7 +30,12 @@ Professional Experience
 
 Education
 ------
-* *2017* PhD in Computer Vision, INSA Lyon, France
+* *2017* PhD, [INSA Lyon](https://www.insa-lyon.fr), [LIRIS](http://liris.cnrs.fr) laboratories (team [IMAGINE](https://liris.cnrs.fr/imagine/)). 
+	* Thesis: *Human Pose Estimation and Action Recognition by Multi-robot Systems* [[pdf]](https://drive.google.com/file/d/0B_ZIKglaIIgFVFo4RlJoWVBRaVE/view?usp=sharing) [[defense]](https://drive.google.com/open?id=0B_ZIKglaIIgFUlc2b0RrMDZITE0)
+	* Advisors:
+		* [Christian WOLF](http://liris.cnrs.fr/christian.wolf/)
+		* [Atilla BASKURT](http://liris.cnrs.fr/atilla.baskurt/wiki/doku.php)
+		* [Gonen EREN](http://www.goneneren.com/)
 * *2012* MSc in [Software Engineering](http://www.boun.edu.tr/en_US/Content/Academic/Graduate_Catalogue/Graduate_Programs_Subject_to_Additional_Tuition_and_Fees/Graduate_Program_In_Software_Engineering), [Bogazici University](http://www.boun.edu.tr/en_US), Istanbul
 * *2009* BSc in [Computer Engineering](http://bm.gsu.edu.tr/en), [Galatasaray Univesity](http://www.gsu.edu.tr), Istanbul
 * *2003* Saint-Joseph Private French High School, Istanbul
