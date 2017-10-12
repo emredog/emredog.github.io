@@ -39,8 +39,8 @@ Professional Experience
 Education
 ------
 * *2017* PhD in Computer Vision, INSA Lyon, France
-* *2012* MSc in Software Engineering, Bogazici University, Istanbul
-* *2009* BSc in Computer Engineering, Galatasaray University, Istanbul
+* *2012* MSc in [Software Engineering](http://www.boun.edu.tr/en_US/Content/Academic/Graduate_Catalogue/Graduate_Programs_Subject_to_Additional_Tuition_and_Fees/Graduate_Program_In_Software_Engineering), [Bogazici University](http://www.boun.edu.tr/en_US), Istanbul
+* *2009* BSc in [Computer Engineering](http://bm.gsu.edu.tr/en), [Galatasaray Univesity](http://www.gsu.edu.tr), Istanbul
 * *2003* Saint-Joseph Private French High School, Istanbul
 
 Test Scores
