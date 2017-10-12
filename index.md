@@ -4,11 +4,12 @@ Basic info
 *emre.dogan (at) liris.cnrs.fr*
 
 * Research Assistant at [Galatasaray University](https://www.gsu.edu.tr).
-* PhD student at [INSA Lyon](https://www.insa-lyon.fr), [LIRIS](http://liris.cnrs.fr) laboratories (team [IMAGINE](https://liris.cnrs.fr/imagine/)). 
-* Advisors:
-	* [Christian WOLF](http://liris.cnrs.fr/christian.wolf/)
-	* [Atilla BASKURT](http://liris.cnrs.fr/atilla.baskurt/wiki/doku.php)
-	* [Gonen EREN](http://www.goneneren.com/)
+* PhD, [INSA Lyon](https://www.insa-lyon.fr), [LIRIS](http://liris.cnrs.fr) laboratories (team [IMAGINE](https://liris.cnrs.fr/imagine/)). 
+	* Thesis: *Human Pose Estimation and Action Recognition by Multi-robot Systems* [[pdf]](https://drive.google.com/file/d/0B_ZIKglaIIgFVFo4RlJoWVBRaVE/view?usp=sharing) [[defense]](https://drive.google.com/open?id=0B_ZIKglaIIgFUlc2b0RrMDZITE0)
+	* Advisors:
+		* [Christian WOLF](http://liris.cnrs.fr/christian.wolf/)
+		* [Atilla BASKURT](http://liris.cnrs.fr/atilla.baskurt/wiki/doku.php)
+		* [Gonen EREN](http://www.goneneren.com/)
 
 Research Interests
 ------
