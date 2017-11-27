@@ -3,8 +3,6 @@ Basic info
 *edogan (at) gsu.edu.tr*       
 *emre.dogan (at) liris.cnrs.fr*
 
-Computer vision researcher with solid development skills.
-
 Research Interests
 ------
 Articulated pose estimation, action recognition, multi-view settings, mixture models, deep learning 
