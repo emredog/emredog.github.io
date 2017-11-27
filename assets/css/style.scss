@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 header ul {
-  list-style:none;
+  list-style:disc outside none;
   height:40px;
   padding:0;
   background: #fff;
@@ -16,6 +16,6 @@ header ul {
 header li {
   width:67px;
   float:left;
-  border-right:0px solid #e0e0e0;
+  border-right:0px;
   height:40px;
 }
