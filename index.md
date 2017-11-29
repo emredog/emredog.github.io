@@ -26,7 +26,6 @@ Professional Experience
 * *2012* **Software Specialist**, MAP Electronic Commerce Services, Istanbul
 * *2010–12* **R&D Engineer**, Vistek ISRA Vision, Istanbul/Herten (Germany)
 * *2007–10* **Software Engineer**, Vistek Machine Vision and Automation, Istanbul 
-* *2007* **Intern**, Vistek Machine Vision and Automation, Istanbul
 
 Education
 ------
@@ -47,7 +46,6 @@ Test Scores
 	* Reading - 9.0
 	* Writing - 7.5
 	* Speaking - 7.0
-* ~~TOEFL *(Apr 2012)*, 98~~
 
 Links
 ------
