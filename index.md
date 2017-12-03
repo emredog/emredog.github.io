@@ -51,6 +51,7 @@ Links
 ------
 * [LinkedIn](https://tr.linkedin.com/in/emredog)
 * [Google Scholar](https://scholar.google.com/citations?user=oKbdmJsAAAAJ)
+* [Github](https://github.com/emredog/)
 * [ResearchGate](https://www.researchgate.net/profile/Emre_Dogan)
 * [StackOverflow](http://stackoverflow.com/users/87359/emredog)
 * [Twitter](https://twitter.com/emredawg)
