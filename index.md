@@ -1,4 +1,4 @@
-Basic info
+Contact
 ------
 *edogan (at) gsu.edu.tr*       
 *emre.dogan (at) liris.cnrs.fr*
