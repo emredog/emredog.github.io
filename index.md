@@ -9,7 +9,7 @@ Articulated pose estimation, action recognition, multi-view settings, mixture mo
 
 Programming Skills
 ------
-C++ , Matlab, OpenCV, Python, Keras/Tensorflow
+C++ , Matlab, OpenCV, Python, Keras/Tensorflow, PyTorch
 
 Publications
 ------
