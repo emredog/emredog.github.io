@@ -7,6 +7,10 @@ Research Interests
 ------
 Articulated pose estimation, action recognition, multi-view settings, mixture models, deep learning 
 
+#### Currently working on: ####
+* Conditional GANs, Wasserstein distance, etc: [github](https://github.com/emredog/CycleGANwithPerceptionLoss)
+* Fully convolutional nets for instance segmentation: [github](https://github.com/emredog/FCNN-example)
+
 Programming Skills
 ------
 C++ , Matlab, OpenCV, Python, Keras/Tensorflow, PyTorch
