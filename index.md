@@ -9,7 +9,7 @@ Articulated pose estimation, action recognition, multi-view settings, mixture mo
 
 #### Currently working on: ####
 * Conditional GANs, Wasserstein distance, etc: [github](https://github.com/emredog/CycleGANwithPerceptionLoss)
-* Fully convolutional nets for instance segmentation: [github](https://github.com/emredog/FCNN-example)
+* Fully convolutional nets for semantic segmentation: [github](https://github.com/emredog/FCNN-example)
 
 Programming Skills
 ------
