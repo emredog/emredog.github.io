@@ -1,7 +1,6 @@
 Contact
 ------
-*edogan (at) gsu.edu.tr*       
-*emre.dogan (at) liris.cnrs.fr*
+*edogan (at) gsu.edu.tr*
 
 Research Interests
 ------
