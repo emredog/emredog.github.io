@@ -1,12 +1,12 @@
 Contact
 ------
-*edogan (at) gsu.edu.tr*
+*emd (at) pupil-labs.com*
 
 Research Interests
 ------
 Articulated pose estimation, action recognition, multi-view settings, mixture models, deep learning 
 
-#### Currently working on: ####
+#### Some projects from 2017/18: ####
 * Conditional GANs, Wasserstein distance, etc: [github](https://github.com/emredog/CycleGANwithPerceptionLoss)
 * Fully convolutional nets for semantic segmentation: [github](https://github.com/emredog/FCNN-example)
 
@@ -24,7 +24,8 @@ Publications
 
 Professional Experience
 ------
-* *2013 – Present* **Research Assistant**, Computer Engineering Dept. Galatasaray University, Istanbul 
+* *2018 - Present* **R&D Engineer**, [Pupil](http://pupil-labs.com/) Labs, Berlin
+* *2013–18* **Research Assistant**, Computer Engineering Dept. Galatasaray University, Istanbul 
 * *2013* **Guest Lecturer** on Digital Game Design, Galatasaray University, Istanbul
 * *2012* **Software Specialist**, MAP Electronic Commerce Services, Istanbul
 * *2010–12* **R&D Engineer**, Vistek ISRA Vision, Istanbul/Herten (Germany)
