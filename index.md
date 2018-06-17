@@ -24,7 +24,7 @@ Publications
 
 Professional Experience
 ------
-* *2018 - Present* **R&D Engineer**, [Pupil](http://pupil-labs.com/) Labs, Berlin
+* *2018 - Present* **R&D Engineer**, [Pupil Labs](http://pupil-labs.com/), Berlin
 * *2013–18* **Research Assistant**, Computer Engineering Dept. Galatasaray University, Istanbul 
 * *2013* **Guest Lecturer** on Digital Game Design, Galatasaray University, Istanbul
 * *2012* **Software Specialist**, MAP Electronic Commerce Services, Istanbul
