@@ -1,6 +1,6 @@
 Contact
 ------
-![alt text](mail.png "You know what to do.")
+<img src="mail.png" height="30" />
 
 Experience
 ------
