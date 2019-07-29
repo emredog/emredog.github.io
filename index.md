@@ -1,10 +1,11 @@
 Contact
 ------
-*emd (at) pupil-labs.com*
+emredog|<img style="float: right;" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x.png">
+--|--
 
-Research Interests
+Experience
 ------
-Articulated pose estimation, action recognition, multi-view settings, mixture models, deep learning 
+ConvNets, Visual SLAM, articulated pose estimation, action recognition, multi-view settings, mixture models, GANs
 
 #### Some projects from 2017/18: ####
 * Conditional GANs, Wasserstein distance, etc: [github](https://github.com/emredog/CycleGANwithPerceptionLoss)
@@ -12,7 +13,7 @@ Articulated pose estimation, action recognition, multi-view settings, mixture mo
 
 Programming Skills
 ------
-C++ , Matlab, OpenCV, Python, Keras/Tensorflow, PyTorch
+PyTorch, Python, C++, OpenCV, Keras, Matlab 
 
 Publications
 ------
@@ -24,7 +25,7 @@ Publications
 
 Professional Experience
 ------
-* *2018 - Present* **R&D Engineer**, [Pupil Labs](http://pupil-labs.com/), Berlin
+* *2018 - 2019* **R&D Engineer**, [Pupil Labs](http://pupil-labs.com/), Berlin
 * *2013–18* **Research Assistant**, Computer Engineering Dept. Galatasaray University, Istanbul 
 * *2013* **Guest Lecturer** on Digital Game Design, Galatasaray University, Istanbul
 * *2012* **Software Specialist**, MAP Electronic Commerce Services, Istanbul
