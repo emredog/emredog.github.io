@@ -1,7 +1,6 @@
 Contact
 ------
-emredog|<img style="float: right;" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x.png">
---|--
+![alt text](mail.png "You know what to do.")
 
 Experience
 ------
