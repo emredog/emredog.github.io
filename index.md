@@ -24,6 +24,7 @@ Publications
 
 Professional Experience
 ------
+* *2019 - Present* **Senior Data Scientist** [Lindera](http://lindera.de), Berlin
 * *2018 - 2019* **R&D Engineer**, [Pupil Labs](http://pupil-labs.com/), Berlin
 * *2013–18* **Research Assistant**, Computer Engineering Dept. Galatasaray University, Istanbul 
 * *2013* **Guest Lecturer** on Digital Game Design, Galatasaray University, Istanbul
