@@ -55,8 +55,9 @@ Test Scores
 Links
 ------
 * [LinkedIn](https://www.linkedin.com/in/emredog/)
-* [Google Scholar](https://scholar.google.com/citations?user=oKbdmJsAAAAJ)
+* [Quora](https://www.quora.com/profile/Emre-Do%C4%9Fan-2)
 * [Github](https://github.com/emredog/)
+* [Google Scholar](https://scholar.google.com/citations?user=oKbdmJsAAAAJ)
 * [ResearchGate](https://www.researchgate.net/profile/Emre_Dogan)
 * [StackOverflow](http://stackoverflow.com/users/87359/emredog)
 * [Twitter](https://twitter.com/emredawg)
