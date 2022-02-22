@@ -2,13 +2,20 @@ Contact
 ------
 <img src="mail.png" height="30" />
 
-Experience
+Expertise
 ------
 ConvNets, Visual SLAM, articulated pose estimation, action recognition, multi-view settings, mixture models, GANs
 
-#### Some projects from 2017/18: ####
-* Conditional GANs, Wasserstein distance, etc: [github](https://github.com/emredog/CycleGANwithPerceptionLoss)
-* Fully convolutional nets for semantic segmentation: [github](https://github.com/emredog/FCNN-example)
+Professional Experience
+------
+* *2021 - Present* **Computer Vision Lead** [Lindera](http://lindera.de), Berlin
+* *2019 - 2021* **Senior Data Scientist** [Lindera](http://lindera.de), Berlin
+* *2018 - 2019* **R&D Engineer**, [Pupil Labs](http://pupil-labs.com/), Berlin
+* *2013–18* **Research Assistant**, Computer Engineering Dept. Galatasaray University, Istanbul 
+* *2013* **Guest Lecturer** on Digital Game Design, Galatasaray University, Istanbul
+* *2012* **Software Specialist**, MAP Electronic Commerce Services, Istanbul
+* *2010–12* **R&D Engineer**, Vistek ISRA Vision, Istanbul/Herten (Germany)
+* *2007–10* **Software Engineer**, Vistek Machine Vision and Automation, Istanbul 
 
 Programming Skills
 ------
@@ -22,15 +29,9 @@ Publications
 * C. Wolf, E. Lombardi, J. Mille, O. Celiktutan, M. Jiu, E. Dogan, G. Eren, M. Baccouche, E. Dellandrea, C. Bichot, C. Garcia, B. Sankur, *“Evaluation of video activity localizations integrating quality and quantity measurements: application to the ICPR 2012 HARL competition”*, Computer Vision and Image Understanding 127, 2014, pp. 14-30 [[pdf]](https://hal.archives-ouvertes.fr/hal-01283866/file/Liris-6807.pdf) [[elsevier]](http://www.sciencedirect.com/science/article/pii/S1077314214001416)
 * S. A. Kocak, G. I. Alptekin, A. B. Bener, A. Miranskyy, E. Dogan, *“The Effects of Software Features on Energy Consumption”*, 8th National Software Engineering Symposium (UYMS 2014), Cyprus, pp. 35-44.
 
-Professional Experience
-------
-* *2019 - Present* **Senior Data Scientist** [Lindera](http://lindera.de), Berlin
-* *2018 - 2019* **R&D Engineer**, [Pupil Labs](http://pupil-labs.com/), Berlin
-* *2013–18* **Research Assistant**, Computer Engineering Dept. Galatasaray University, Istanbul 
-* *2013* **Guest Lecturer** on Digital Game Design, Galatasaray University, Istanbul
-* *2012* **Software Specialist**, MAP Electronic Commerce Services, Istanbul
-* *2010–12* **R&D Engineer**, Vistek ISRA Vision, Istanbul/Herten (Germany)
-* *2007–10* **Software Engineer**, Vistek Machine Vision and Automation, Istanbul 
+#### Some pet projects from 2017/18: ####
+* Conditional GANs, Wasserstein distance, etc: [github](https://github.com/emredog/CycleGANwithPerceptionLoss)
+* Fully convolutional nets for semantic segmentation: [github](https://github.com/emredog/FCNN-example)
 
 Education
 ------
