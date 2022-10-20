@@ -2,13 +2,10 @@ Contact
 ------
 <img src="mail.png" height="30" />
 
-Expertise
-------
-ConvNets, Visual SLAM, articulated pose estimation, action recognition, multi-view settings, mixture models, GANs
-
 Professional Experience
 ------
-* *2021 - Present* **Computer Vision Lead** [Lindera](http://lindera.de), Berlin
+* *2022 - Present* **Senior Data Scientist** [XPAI](https://xpai.io/), Berlin
+* *2021 - 2022* **Computer Vision Lead** [Lindera](http://lindera.de), Berlin
 * *2019 - 2021* **Senior Data Scientist** [Lindera](http://lindera.de), Berlin
 * *2018 - 2019* **R&D Engineer**, [Pupil Labs](http://pupil-labs.com/), Berlin
 * *2013–18* **Research Assistant**, Computer Engineering Dept. Galatasaray University, Istanbul 
@@ -17,9 +14,10 @@ Professional Experience
 * *2010–12* **R&D Engineer**, Vistek ISRA Vision, Istanbul/Herten (Germany)
 * *2007–10* **Software Engineer**, Vistek Machine Vision and Automation, Istanbul 
 
-Programming Skills
+Skills
 ------
-PyTorch, Python, C++, OpenCV, Keras, Matlab 
+**Programming** PyTorch, Python, C++, OpenCV, Keras, Matlab
+**Tools/Services** Git, Atlassian (Jira & Confluence), AWS 
 
 Publications
 ------
