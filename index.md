@@ -60,6 +60,7 @@ Links
 * [StackOverflow](http://stackoverflow.com/users/87359/emredog)
 * [Strava](https://www.strava.com/athletes/122308118)
 * [Discogs](https://www.discogs.com/user/emredog)
+* [YouTube](https://www.youtube.com/channel/UCe2qAFE9mPOyPhUglUJe7Ow)
 * [Soundcloud](https://soundcloud.com/gandoreme)
 * Some older links:
     * [Twitter](https://twitter.com/emredawg)
