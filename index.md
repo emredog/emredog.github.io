@@ -17,6 +17,7 @@ Professional Experience
 Skills
 ------
 **Programming** PyTorch, Python, C++, OpenCV, Keras, Matlab
+
 **Tools/Services** Git, Atlassian (Jira & Confluence), AWS 
 
 Publications
