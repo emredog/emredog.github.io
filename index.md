@@ -54,6 +54,7 @@ Links
 * [Google Scholar](https://scholar.google.com/citations?user=oKbdmJsAAAAJ)
 * [ResearchGate](https://www.researchgate.net/profile/Emre_Dogan)
 * [StackOverflow](http://stackoverflow.com/users/87359/emredog)
+* [Instagram](https://www.instagram.com/emredawg)
 * [Strava](https://www.strava.com/athletes/122308118)
 * [Discogs](https://www.discogs.com/user/emredog)
 * [YouTube](https://www.youtube.com/channel/UCe2qAFE9mPOyPhUglUJe7Ow)
