@@ -4,7 +4,8 @@ Contact
 
 Professional Experience
 ------
-* *2022 - Present* **Senior Data Scientist** [XPAI](https://xpai.io/), Berlin
+* *2024* **Senior Machine Learning Engineer** [AIRMO](https://www.airmo.io/), Berlin
+* *2022 - 2024* **Senior Data Scientist** [XPAI](https://xpai.io/), Berlin
 * *2021 - 2022* **Computer Vision Lead** [Lindera](http://lindera.de), Berlin
 * *2019 - 2021* **Senior Data Scientist** [Lindera](http://lindera.de), Berlin
 * *2018 - 2019* **R&D Engineer**, [Pupil Labs](http://pupil-labs.com/), Berlin
@@ -13,12 +14,6 @@ Professional Experience
 * *2012* **Software Specialist**, MAP Electronic Commerce Services, Istanbul
 * *2010–12* **R&D Engineer**, Vistek ISRA Vision, Istanbul/Herten (Germany)
 * *2007–10* **Software Engineer**, Vistek Machine Vision and Automation, Istanbul 
-
-Skills
-------
-**Programming** PyTorch, Python, C++, OpenCV, Keras, Matlab
-
-**Tools/Services** Git, Atlassian (Jira & Confluence), AWS 
 
 Publications
 ------
@@ -49,7 +44,7 @@ Languages
 ---------------
 * English - Fluent
 * French - Proficient
-* German - A2
+* German - B1
 * Turkish - Native
 
 Links
